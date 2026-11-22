@@ -7521,6 +7521,14 @@
       "icon": "https://community.chocolatey.org/content/packageimages/civo-cli.1.0.48.png",
       "images": []
     },
+    "ckan": {
+      "icon": "https://raw.githubusercontent.com/Gesugao-san/scoop-bucket/main/icons/ckan-192.png",
+      "images": []
+    },
+    "ckan-netfx": {
+      "icon": "https://raw.githubusercontent.com/Gesugao-san/scoop-bucket/main/icons/ckan-192.png",
+      "images": []
+    },
     "cksdev11": {
       "icon": "",
       "images": []
